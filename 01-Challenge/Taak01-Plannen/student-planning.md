@@ -10,17 +10,17 @@
 
 ## Planning tabel
 
-| Stap        | Taak                                           | Verwachte tijdsduur | Status |
-| ----------- | ---------------------------------------------- | ------------------- | ------ |
+| Stap 1       | Taak                                          | Verwachte tijdsduur | Status |
+| -20 min---------- | -----------------------------------------| ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
-| ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
-| ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:20 u             | Bezig  |
+| ...         | Styling van elementen bepalen                  | 00:30 u             |        |
+| Realiseren  | Bestanden aanmaken                             | 08:20 u             |        |
+| ...         |                                                | 00:20 u             |        |
+| Testen      | Applicatie testen                              | 00:45 u             |        |
+| ...         |                                                | 00:20 u             |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:00 u             |        |
+| ...         |                                                | 00:20 u             |        |
+| Presenteren |                                                | 00:10 u             |        |
+| ...         |                                                | 00:05 u             |        |
+| Refecteren  | Reflectiedocument schrijven                    | 00:25 u             |        |
